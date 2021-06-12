@@ -1,4 +1,5 @@
-This is a simple C++ A* search algorithm
+This is a simple A* search algorithm
+Written in C++ Language
 The GUI is made in SFML Library
 Here is the link to guide SFML setup https://www.sfml-dev.org/tutorials/2.5/start-vc.php
 
